@@ -1,8 +1,8 @@
-package GeeCache
+package geecache
 
 import (
-	"GeeCache/geecache/consistenthash"
-	pb "GeeCache/geecache/geecachepb/proto"
+	"GeeCache/consistenthash"
+	pb "GeeCache/geecachepb/proto"
 	"fmt"
 	"github.com/golang/protobuf/proto"
 	"io/ioutil"

@@ -1,7 +1,7 @@
-package GeeCache
+package geecache
 
 import (
-	pb "GeeCache/geecache/geecachepb/proto"
+	pb "GeeCache/geecachepb/proto"
 )
 
 type PeerPicker interface {
